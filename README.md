@@ -1,8 +1,12 @@
+ELK Stack Project 1
+
 
 [README.md](https://github.com/CDA1977/CDA1977/files/7388125/README.md)
 The files in this repository were used to configure the network depicted below.
 
-![TODO: Update the path with the name of your diagram](Images/Project 1.jpg)
+
+![Project 1](https://user-images.githubusercontent.com/84096707/138260682-0ca8525b-317d-4f29-8066-acf644fd6964.jpg)
+
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the _____ file may be used to install only certain pieces of it, such as Filebeat.
 
